@@ -8,7 +8,9 @@ disk/
 *.orig
 *.rej
 
+*.dsk
 *.apple2
+*.apple2enh
 *.c64
 *.pet
 *.prg
